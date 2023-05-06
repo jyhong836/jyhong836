@@ -12,8 +12,8 @@ See my [homepage](https://jyhong.gitlab.io/) and [CV](https://jyhong.gitlab.io/f
 
 ----
 
-[![Junyuan's github stats](https://github-readme-stats.vercel.app/api?username=jyhong836&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyhong836&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Junyuan's github stats](https://github-readme-stats.vercel.app/api?username=jyhong836&theme=material-palenight&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyhong836&theme=material-palenight&hide=Jupyter,SCSS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jyhong836/jyhong836** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
