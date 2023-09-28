@@ -1,7 +1,7 @@
 ### Hi there, I'm [Junyuan Hong](https://jyhong.gitlab.io/) 👋
 
 I am a researcher on Machine Learning. My research centers around *Privacy-Centric Trustworthy Machine Learning*. My vision is to enhance trustworthiness (regarding fairness, robustness and security) under the privacy constraint, e.g., federated learning and differentially-private learning. My research highlights:
-* [**Privacy**] in centralized learning with [theoretic understanding](https://jyhong.gitlab.io/publication/ondynamic) and [empirical algorithms](https://jyhong.gitlab.io/publication/learn2protect) and in [distributed learning](https://github.com/illidanlab/HyFL).
+* [**Privacy**] in centralized learning with [theoretic understanding](https://jyhong.gitlab.io/publication/ondynamic), [analysis tool](https://jyhong.gitlab.io/publication/2023neurips_i2f/) and [empirical algorithms](https://jyhong.gitlab.io/publication/learn2protect) and its [financial application](https://github.com/illidanlab/HyFL) in distributed learning.
 * [**Trustworthiness**] ⨉ Privacy: Federated Learning and Private Edge-Cloud Collaboration.
   * **Fair** [pre-training](https://jyhong.gitlab.io/publication/faircl2022) and [federated learning](https://github.com/illidanlab/FADE):open_file_folder:.
   * **Robustness** by efficient acquisition against [adversarial samples](https://github.com/illidanlab/FedRBN):open_file_folder: and [OoD inference](https://github.com/illidanlab/FOSTER):open_file_folder:.
